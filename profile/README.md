@@ -11,7 +11,7 @@ AksaCarma is an innovative mobile application that aims to transform the field o
 This repository is for AksaCarma Mobile App for our project in capstone Bangkit Academy 2023. This project is a graduation requirement in the Bangkit Academy 2023 program as a Mobile Developer Learning Path
 
 ## Repositories
-- [Machine Learning](https://github.com/AksaCerma/ml_detect_skin_desease)
+- [Machine Learning](https://github.com/AksaCerma/akscarma-ml)
 - [Cloud Computing](https://github.com/AksaCerma/backend-api)
 - [Mobile Development](https://github.com/AksaCerma/AksaCarma)
 
