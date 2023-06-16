@@ -12,7 +12,7 @@ This repository is for AksaCarma Mobile App for our project in capstone Bangkit 
 
 ## Repositories
 - [Machine Learning](https://github.com/AksaCerma/akscarma-ml)
-- [Cloud Computing](https://github.com/AksaCerma/backend-api)
+- [Cloud Computing](https://github.com/AksaCerma/aksacarma-cc)
 - [Mobile Development](https://github.com/AksaCerma/AksaCarma)
 
 ## Mentors
