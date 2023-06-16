@@ -6,10 +6,6 @@
 
 AksaCarma is an innovative mobile application that aims to transform the field of skin health. The app allows users to capture photos of their skin and receive instant analysis for potential skin diseases. More than just a detection tool, AksaCarma provides a wealth of educational resources, recommendations, and insights to empower users in managing their skin health. With its user-friendly interface and comprehensive approach, AksaCarma is revolutionizing the way individuals care for their skin, offering convenience, knowledge, and the potential for healthier and happier skin.
 
-## About The Project
-
-This repository is for AksaCarma Mobile App for our project in capstone Bangkit Academy 2023. This project is a graduation requirement in the Bangkit Academy 2023 program as a Mobile Developer Learning Path
-
 ## Repositories
 - [Machine Learning](https://github.com/AksaCerma/akscarma-ml)
 - [Cloud Computing](https://github.com/AksaCerma/aksacarma-cc)
